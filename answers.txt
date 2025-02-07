@@ -1,2 +1,6 @@
+
 Q1: Why might we consider using Git?
 Answer: Because it is easy to use and makes version control easy
+
+Q2: What field could data science be applied to? Give an example
+Answer: It can be applied to the field of biomedical engineering and research because it has a lot of data
