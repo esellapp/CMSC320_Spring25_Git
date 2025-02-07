@@ -4,3 +4,10 @@ Answer: Because it is easy to use and makes version control easy
 
 Q2: What field could data science be applied to? Give an example
 Answer: It can be applied to the field of biomedical engineering and research because it has a lot of data
+
+Q3: What is the difference between Merging and Rebasing?
+Answer: Rebasing combines a sequence of commits into a new base commit
+
+Q4: What are you looking forward to this semester?
+Answer: I am looking forward to spending time with my friends
+
